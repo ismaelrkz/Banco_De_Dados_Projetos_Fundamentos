@@ -53,4 +53,3 @@ CREATE TABLE tbl_funcionario_projeto
         ON DELETE CASCADE
         ON UPDATE CASCADE
 );
-
