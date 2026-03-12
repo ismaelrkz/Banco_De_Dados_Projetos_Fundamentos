@@ -1,3 +1,5 @@
+-- DOCUMENTO COM OS COMANDOS PARA CRIAÇÃO DAS TABELAS
+
 CREATE TABLE tbl_departamento
 (
     id_depto   INT NOT NULL auto_increment,

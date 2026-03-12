@@ -1,0 +1,9 @@
+# JetBrains IDE
+.idea/
+
+# arquivos temporários
+*.log
+*.tmp
+
+# sistema
+.DS_Store

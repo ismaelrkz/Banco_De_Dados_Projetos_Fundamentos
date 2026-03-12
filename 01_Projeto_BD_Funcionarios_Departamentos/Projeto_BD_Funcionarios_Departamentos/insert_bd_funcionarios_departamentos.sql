@@ -1,10 +1,13 @@
+-- DOCUMENTO COM OS COMANDOS PARA INSERÇÃO DE DADOS NAS TABELAS
+
 INSERT INTO tbl_departamento
 VALUES (null, 'Presidencia'),
        (null, 'Engenharia'),
        (null, 'Produto'),
        (null, 'Comercial e Marketing'),
        (null, 'Suporte e Customer Success'),
-       (null, 'Administrativo e Financeiro');
+       (null, 'Administrativo e Financeiro'),
+       (null, 'Logistíca');
 
 INSERT INTO tbl_funcionario
     (id_func, nome_func, salario_func, depto_func, id_supervisor)
