@@ -1,2 +1,3 @@
 -- DOCUMENTO COM OS COMANDOS PARA AS CONSULTAS REFERENTE AS TABELAS
 
+select * from tbl_funcionarios;
