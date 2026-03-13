@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="DataSourcePerFileMappings">
-    <file url="file://$PROJECT_DIR$/create_tables_bd_funcionarios_departamentos.sql" value="9bb22e1f-3af5-4ded-98da-b8bc15f2bbfe" />
-    <file url="file://$PROJECT_DIR$/insert_bd_funcionarios_departamentos.sql" value="9bb22e1f-3af5-4ded-98da-b8bc15f2bbfe" />
-    <file url="file://$PROJECT_DIR$/sql_query_bd_funcionarios_departamentos.sql" value="9bb22e1f-3af5-4ded-98da-b8bc15f2bbfe" />
-  </component>
-</project>
